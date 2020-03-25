@@ -1,8 +1,9 @@
 /**
- * Demo program for Gimatriya calculation.
+ * AUTHORS: <george kouzi and dolev saadia>
  * 
  * Date: 2020-02
- */
+*/
+
 
 #include "PhoneticFinder.hpp"
 

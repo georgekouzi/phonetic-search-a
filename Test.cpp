@@ -1,8 +1,15 @@
+/**
+ * AUTHORS: <george kouzi and dolev saadia>
+ * 
+ * Date: 2020-02
+*/
+
 #include "doctest.h"
 #include "PhoneticFinder.hpp"
 using namespace phonetic;
 #include <string>
 using namespace std;
+
 
 
 
